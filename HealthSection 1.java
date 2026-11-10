@@ -6,7 +6,7 @@ package OOPProject;
 
 /**
  *
- * @author izzed
+ * @author claudia
  */
 public class HealthSection {
     public static void main(String [] args){
