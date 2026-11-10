@@ -6,7 +6,7 @@ package OOPProject;
 
 /**
  *
- * @author izzed
+ * @author claudia
  */
 public class WaterIntakeGUI extends javax.swing.JFrame {
     
