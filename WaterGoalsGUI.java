@@ -6,7 +6,7 @@ package OOPProject;
 
 /**
  *
- * @author izzed
+ * @author claudia
  */
 public class WaterGoalsGUI extends javax.swing.JFrame {
     
