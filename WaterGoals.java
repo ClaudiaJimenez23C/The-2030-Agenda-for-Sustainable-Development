@@ -6,7 +6,7 @@ package OOPProject;
 
 /**
  *
- * @author izzed
+ * @author claudia
  */
 public class WaterGoals {
     public static void main(String [] args){
